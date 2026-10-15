@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Welcome](README.md)
-* [Demo First Page](<README (1).md>)
+* [Demo First Page](demo-first-page.md)
 * [Welcome Here](welcome-here.md)
 
 ## Getting Started
